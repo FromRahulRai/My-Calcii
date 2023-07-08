@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+    font-family: 'Montagu Slab', serif;
+}
+
+.bg-gree{
+    background-color: green;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.flex{
+display: flex;
+}
+
+.flex-col{
+flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+

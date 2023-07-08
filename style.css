@@ -1,0 +1,44 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    background: #bdc3c7;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.button{
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+    margin: 0px 3px;
+    border: 2px solid transparent;
+    border-radius: 12px;
+    cursor: pointer;
+    width: 60px;
+}
+
+.row{
+    margin: 9px 0px;
+}
+
+.row input{
+    width: 260px;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid transparent;
+    border-radius: 9px;
+}
+
+h1{
+    color: #34485a;
+}
+
+.extra-col{
+    background-color: #b4bfc6;
+    color: whitesmoke;
+}
